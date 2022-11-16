@@ -5,7 +5,7 @@ function Table({cityAndCategoryData}) {
         <table>
             <thead>
                 <tr>
-                    <th>#</th>
+                    <thg>#</thg>
                     <th>Name</th>
                     <th>Phone</th>
                     <th>Address</th>
