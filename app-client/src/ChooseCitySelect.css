@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+.choose_label{
+    font-size: 1.8rem;
+    font-family: 'Roboto Slab', serif;
+}
+
+.select_div{
+    display: flex;
+    gap: 2rem;
+}
+
+.city_select{
+    width: 8rem;
+    font-size: 1.2rem;
+}

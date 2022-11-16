@@ -1,0 +1,9 @@
+.category_buttons{
+    display: flex;
+    justify-content: space-around;
+}
+
+button{
+    padding: 1.2rem;
+    font-size: 1.5rem;
+}
